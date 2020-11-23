@@ -5,8 +5,6 @@
 
 NOTE: WRITEUP ALSO AVAILABLE IN P1_WRITEUP.MD
 
-# **Finding Lane Lines on the Road** 
-
 ## P1 Writeup
 
 ## Selin Sirinterlikci
